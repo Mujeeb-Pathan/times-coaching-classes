@@ -1,10 +1,10 @@
 /*import fonts from fonts.css*/
 
-@import url('./fonts.css');
+@import url('../css/fonts.css');
 
 /*css variables*/
 
-@import url('./partials/_variables.css');
+@import url('../css/partials/_variables.css');
 
 /* Start navigation */
 
