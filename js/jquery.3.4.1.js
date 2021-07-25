@@ -1662,4 +1662,4 @@
     var Qt = C.jQuery,
         Jt = C.$;
     return k.noConflict = function(e) { return C.$ === k && (C.$ = Jt), e && C.jQuery === k && (C.jQuery = Qt), k }, e || (C.jQuery = C.$ = k), k
-}); { "mode": "full", "isActive": false }
+});
